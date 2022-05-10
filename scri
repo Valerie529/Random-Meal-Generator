@@ -64,3 +64,4 @@ menu.addDishToCourse('desserts', 'pie', 3.00);
 
 const meal = menu.generateRandomMeal();
 console.log(meal);
+
